@@ -1,0 +1,102 @@
+User ID,Monthly_Salary,Monthly_Expense,MF1,MF2,MF3
+FI001,25000,12000,HDFC Index Fund - Nifty 50 Plan,Aditya Birla Sun Life Index Fund,Axis Nifty ETF
+FI002,35000,13000,SBI Nifty Index Fund,ICICI Prudential Nifty Index Fund,UTI Nifty Index Fund
+FI003,40000,15000,Aditya Birla Sun Life Index Fund,Axis Nifty ETF,Kotak Nifty ETF
+FI004,55000,20000,ICICI Prudential Nifty Index Fund,UTI Nifty Index Fund,Motilal Oswal Nifty 500 Fund
+FI005,60000,22000,Axis Nifty ETF,Kotak Nifty ETF,Edelweiss Nifty ETF
+FI006,70000,25000,UTI Nifty Index Fund,Motilal Oswal Nifty 500 Fund,IDBI Nifty Index Fund
+FI007,80000,27000,Kotak Nifty ETF,Edelweiss Nifty ETF,Quant Nifty 50 ETF
+FI008,85000,28000,Motilal Oswal Nifty 500 Fund,IDBI Nifty Index Fund,Mirae Asset Large Cap Fund
+FI009,95000,30000,Edelweiss Nifty ETF,Quant Nifty 50 ETF,Tata Nifty Exchange Traded Fund
+FI010,100000,32000,IDBI Nifty Index Fund,Mirae Asset Large Cap Fund,Franklin India Index Fund - NSE Nifty Plan
+FI011,105000,35000,Quant Nifty 50 ETF,Tata Nifty Exchange Traded Fund,BNP Paribas Nifty BeES
+FI012,110000,37000,Mirae Asset Large Cap Fund,Franklin India Index Fund - NSE Nifty Plan,Reliance ETF Nifty BeES
+FI013,115000,40000,Tata Nifty Exchange Traded Fund,BNP Paribas Nifty BeES,DSP Nifty 50 Index Fund
+FI014,120000,42000,Franklin India Index Fund - NSE Nifty Plan,Reliance ETF Nifty BeES,Union Nifty Index Fund
+FI015,125000,45000,BNP Paribas Nifty BeES,DSP Nifty 50 Index Fund,Principal Nifty 100 Equal Weight Fund
+FI016,130000,48000,Reliance ETF Nifty BeES,Union Nifty Index Fund,LIC MF Index Fund - Sensex Plan
+FI017,135000,50000,DSP Nifty 50 Index Fund,Principal Nifty 100 Equal Weight Fund,UTI Sensex ETF
+FI018,140000,52000,Union Nifty Index Fund,LIC MF Index Fund - Sensex Plan,ICICI Prudential Nifty ETF
+FI019,145000,55000,Principal Nifty 100 Equal Weight Fund,UTI Sensex ETF,SBI ETF Nifty 50
+FI020,150000,58000,LIC MF Index Fund - Sensex Plan,ICICI Prudential Nifty ETF,Kotak Nifty ETF
+FI021,155000,60000,UTI Sensex ETF,SBI ETF Nifty 50,Axis Nifty ETF
+FI022,160000,62000,ICICI Prudential Nifty ETF,Kotak Nifty ETF,UTI Nifty Index Fund
+FI023,165000,65000,SBI ETF Nifty 50,Axis Nifty ETF,Motilal Oswal Nifty 500 Fund
+FI024,170000,67000,Kotak Nifty ETF,UTI Nifty Index Fund,Edelweiss Nifty ETF
+FI025,175000,70000,IDFC Nifty ETF,Motilal Oswal Nifty 500 Fund,IDBI Nifty Index Fund
+FI026,180000,72000,Axis Nifty ETF,Edelweiss Nifty ETF,Quant Nifty 50 ETF
+FI027,185000,75000,ICICI Prudential Nifty Index Fund,Quant Nifty 50 ETF,Mirae Asset Large Cap Fund
+FI028,190000,78000,SBI Nifty Index Fund,Mirae Asset Large Cap Fund,Franklin India Index Fund - NSE Nifty Plan
+FI029,195000,80000,Aditya Birla Sun Life Index Fund,Franklin India Index Fund - NSE Nifty Plan,Reliance ETF Nifty BeES
+FI030,200000,82000,UTI Nifty Index Fund,Reliance ETF Nifty BeES,Union Nifty Index Fund
+FI031,21000,11000,HDFC Index Fund - Nifty 50 Plan,Aditya Birla Sun Life Index Fund,Axis Nifty ETF
+FI032,32000,12000,SBI Nifty Index Fund,ICICI Prudential Nifty Index Fund,UTI Nifty Index Fund
+FI033,43000,13000,Aditya Birla Sun Life Index Fund,Axis Nifty ETF,Kotak Nifty ETF
+FI034,52000,14000,ICICI Prudential Nifty Index Fund,UTI Nifty Index Fund,Motilal Oswal Nifty 500 Fund
+FI035,61000,16000,Axis Nifty ETF,Kotak Nifty ETF,Edelweiss Nifty ETF
+FI036,72000,17000,UTI Nifty Index Fund,Motilal Oswal Nifty 500 Fund,IDBI Nifty Index Fund
+FI037,83000,18000,Kotak Nifty ETF,Edelweiss Nifty,ICICI Prudential Nifty Index Fund
+FI038,175000,70000,IDFC Nifty ETF,Motilal Oswal Nifty 500 Fund,IDBI Nifty Index Fund
+FI039,180000,72000,Axis Nifty ETF,Edelweiss Nifty ETF,Quant Nifty 50 ETF
+FI040,185000,75000,ICICI Prudential Nifty Index Fund,Quant Nifty 50 ETF,Mirae Asset Large Cap Fund
+FI041,190000,78000,SBI Nifty Index Fund,Mirae Asset Large Cap Fund,Franklin India Index Fund - NSE Nifty Plan
+FI042,195000,80000,Aditya Birla Sun Life Index Fund,Franklin India Index Fund - NSE Nifty Plan,Reliance ETF Nifty BeES
+FI043,200000,82000,UTI Nifty Index Fund,Reliance ETF Nifty BeES,Union Nifty Index Fund
+FI044,21000,11000,HDFC Index Fund - Nifty 50 Plan,Aditya Birla Sun Life Index Fund,Axis Nifty ETF
+FI045,32000,12000,SBI Nifty Index Fund,ICICI Prudential Nifty Index Fund,UTI Nifty Index Fund
+FI046,43000,13000,Aditya Birla Sun Life Index Fund,Axis Nifty ETF,Kotak Nifty ETF
+FI047,52000,14000,ICICI Prudential Nifty Index Fund,UTI Nifty Index Fund,Motilal Oswal Nifty 500 Fund
+FI048,61000,16000,Axis Nifty ETF,Kotak Nifty ETF,Edelweiss Nifty ETF
+FI049,72000,17000,UTI Nifty Index Fund,Motilal Oswal Nifty 500 Fund,IDBI Nifty Index Fund
+FI050,83000,18000,Kotak Nifty ETF,Edelweiss Nifty ETF,Quant Nifty 50 ETF
+FI051,94000,20000,Motilal Oswal Nifty 500 Fund,IDBI Nifty Index Fund,Mirae Asset Large Cap Fund
+FI052,105000,22000,Edelweiss Nifty ETF,Quant Nifty 50 ETF,Tata Nifty Exchange Traded Fund
+FI053,116000,24000,IDBI Nifty Index Fund,Mirae Asset Large Cap Fund,Franklin India Index Fund - NSE Nifty Plan
+FI054,127000,26000,Quant Nifty 50 ETF,Tata Nifty Exchange Traded Fund,BNP Paribas Nifty BeES
+FI055,138000,28000,Mirae Asset Large Cap Fund,Franklin India Index Fund - NSE Nifty Plan,Reliance ETF Nifty BeES
+FI056,149000,30000,Tata Nifty Exchange Traded Fund,BNP Paribas Nifty BeES,DSP Nifty 50 Index Fund
+FI057,160000,32000,Franklin India Index Fund - NSE Nifty Plan,Reliance ETF Nifty BeES,Union Nifty Index Fund
+FI058,164000,30000,IDFC Nifty ETF,Motilal Oswal Nifty 500 Fund,IDBI Nifty Index Fund
+FI059,179000,32000,Axis Nifty ETF,Edelweiss Nifty ETF,Quant Nifty 50 ETF
+FI060,184000,34000,ICICI Prudential Nifty Index Fund,Quant Nifty 50 ETF,Mirae Asset Large Cap Fund
+FI061,191000,36000,SBI Nifty Index Fund,Mirae Asset Large Cap Fund,Franklin India Index Fund - NSE Nifty Plan
+FI062,199000,38000,Aditya Birla Sun Life Index Fund,Franklin India Index Fund - NSE Nifty Plan,Reliance ETF Nifty BeES
+FI063,209000,40000,UTI Nifty Index Fund,Reliance ETF Nifty BeES,Union Nifty Index Fund
+FI064,21000,11000,HDFC Index Fund - Nifty 50 Plan,Aditya Birla Sun Life Index Fund,Axis Nifty ETF
+FI065,32000,12000,SBI Nifty Index Fund,ICICI Prudential Nifty Index Fund,UTI Nifty Index Fund
+FI066,43000,13000,Aditya Birla Sun Life Index Fund,Axis Nifty ETF,Kotak Nifty ETF
+FI067,52000,14000,ICICI Prudential Nifty Index Fund,UTI Nifty Index Fund,Motilal Oswal Nifty 500 Fund
+FI068,61000,16000,Axis Nifty ETF,Kotak Nifty ETF,Edelweiss Nifty ETF
+FI069,72000,17000,UTI Nifty Index Fund,Motilal Oswal Nifty 500 Fund,IDBI Nifty Index Fund
+FI070,83000,18000,Kotak Nifty ETF,Edelweiss Nifty ETF,Quant Nifty 50 ETF
+FI071,94000,20000,Motilal Oswal Nifty 500 Fund,IDBI Nifty Index Fund,Mirae Asset Large Cap Fund
+FI072,105000,22000,Edelweiss Nifty ETF,Quant Nifty 50 ETF,Tata Nifty Exchange Traded Fund
+FI073,116000,24000,IDBI Nifty Index Fund,Mirae Asset Large Cap Fund,Franklin India Index Fund - NSE Nifty Plan
+FI074,127000,26000,Quant Nifty 50 ETF,Tata Nifty Exchange Traded Fund,BNP Paribas Nifty BeES
+FI075,138000,28000,Mirae Asset Large Cap Fund,Franklin India Index Fund - NSE Nifty Plan,Reliance ETF Nifty BeES
+FI076,149000,30000,Tata Nifty Exchange Traded Fund,BNP Paribas Nifty BeES,DSP Nifty 50 Index Fund
+FI077,160000,32000,Franklin India Index Fund - NSE Nifty Plan,Reliance ETF Nifty BeES,Union Nifty Index Fund
+FI078,17000,11000,HDFC Index Fund - Nifty 50 Plan,Aditya Birla Sun Life Index Fund,Axis Nifty ETF
+FI079,32000,12000,SBI Nifty Index Fund,ICICI Prudential Nifty Index Fund,UTI Nifty Index Fund
+FI080,43000,13000,Aditya Birla Sun Life Index Fund,Axis Nifty ETF,Kotak Nifty ETF
+FI081,52000,14000,ICICI Prudential Nifty Index Fund,UTI Nifty Index Fund,Motilal Oswal Nifty 500 Fund
+FI082,61000,16000,Axis Nifty ETF,Kotak Nifty ETF,Edelweiss Nifty ETF
+FI083,72000,17000,UTI Nifty Index Fund,Motilal Oswal Nifty 500 Fund,IDBI Nifty Index Fund
+FI084,83000,18000,Kotak Nifty ETF,Edelweiss Nifty ETF,Quant Nifty 50 ETF
+FI085,94000,20000,Motilal Oswal Nifty 500 Fund,IDBI Nifty Index Fund,Mirae Asset Large Cap Fund
+FI086,105000,22000,Edelweiss Nifty ETF,Quant Nifty 50 ETF,Tata Nifty Exchange Traded Fund
+FI087,116000,24000,IDBI Nifty Index Fund,Mirae Asset Large Cap Fund,Franklin India Index Fund - NSE Nifty Plan
+FI088,127000,26000,Quant Nifty 50 ETF,Tata Nifty Exchange Traded Fund,BNP Paribas Nifty BeES
+FI089,138000,28000,Mirae Asset Large Cap Fund,Franklin India Index Fund - NSE Nifty Plan,Reliance ETF Nifty BeES
+FI090,149000,30000,Tata Nifty Exchange Traded Fund,BNP Paribas Nifty BeES,DSP Nifty 50 Index Fund
+FI091,160000,32000,Franklin India Index Fund - NSE Nifty Plan,Reliance ETF Nifty BeES,Union Nifty Index Fund
+FI092,171000,34000,BNP Paribas Nifty BeES,DSP Nifty 50 Index Fund,Principal Nifty 100 Equal Weight Fund
+FI093,182000,36000,Franklin India Index Fund - NSE Nifty Plan,Reliance ETF Nifty BeES,Union Nifty Index Fund
+FI094,193000,38000,Principal Nifty 100 Equal Weight Fund,UTI Sensex ETF,SBI ETF Nifty 50
+FI095,204000,40000,LIC MF Index Fund - Sensex Plan,ICICI Prudential Nifty ETF,Kotak Nifty ETF
+FI096,215000,42000,UTI Sensex ETF,SBI ETF Nifty 50,Axis Nifty ETF
+FI097,226000,44000,ICICI Prudential Nifty ETF,Kotak Nifty ETF,UTI Nifty Index Fund
+FI098,237000,46000,SBI ETF Nifty 50,Axis Nifty ETF,Motilal Oswal Nifty 500 Fund
+FI099,248000,48000,Kotak Nifty ETF,UTI Nifty Index Fund,Edelweiss Nifty ETF
+FI100,259000,50000,IDFC Nifty ETF,Motilal Oswal Nifty 500 Fund,IDBI Nifty Index Fund
+FI101,270000,52000,Axis Nifty ETF,Edelweiss Nifty ETF,Quant Nifty 50 ETF
