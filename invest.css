@@ -1,7 +1,6 @@
 .invest-container {
   width: 100%;
   display: flex;
-  overflow: auto;
   min-height: 100vh;
   align-items: center;
   flex-direction: column;
@@ -126,7 +125,7 @@
 }
 .invest-pricing {
   width: 100%;
-  height: 1121px;
+  height: 1000px;
   display: flex;
   padding: var(--dl-space-space-threeunits);
   position: relative;
@@ -144,6 +143,40 @@
   display: flex;
   position: absolute;
 }
+.card_C{
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  border-radius: 5px; 
+}
+.card_C:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+.card_D{
+  border-radius: 5px; 
+}
+
+.a1{
+  display:none;
+}
+.a2{
+  display:none;
+}
+.a3{
+  display:none;
+}
+.a1s{
+  display:block;
+  border:3px display tomato;
+}
+.a2s{
+  display:block;
+  border:3px display yellow;
+}
+.a3s{
+  display:block;
+  border:3px display green;
+}
+
 .invest-features {
   flex: 0 0 auto;
   width: 100%;

@@ -591,13 +591,13 @@
             </div>
           </header>
         </div>
-        <div class="invest-pricing">
+        <div class="invest-pricing">  
           <form class="invest-form">
             <span>
+              <div class="card_C">
               <span>
                 1. On a scale of 1 to 5, how would you rate your priority for
                 saving money for the future?
-              </span>
               <br />
               <span><input type="radio" id="NP" name="q1" value="No Priority">
               <label for="N">No Priority</label></span>
@@ -613,8 +613,10 @@
               <br />
               <span><input type="radio" id="VHP" name="q1" value="Very High Priority">
               <label for="VHP">Very High Priority</label><br></span>
-              <br />
-              <br />
+            </span>
+          </div>
+          <br/>
+          <div class="card_C">
               <span>
                 2.How often do you find yourself making
                 impulse purchases or spending money on non-essential items?
@@ -631,9 +633,10 @@
                 <br />
                 <span><input type="radio" id="HP" name="q2" value="Very Often">
                 <label for="V">Very Often</label></span>
-                <br />
+              </div>
               <br />
-              <span>
+              <div class="card_C">
+              <span >
                 3.Do you have a budget or financial plan
                 in place to manage your expenses and savings?
               </span>
@@ -647,8 +650,10 @@
               <span><input type="radio" id="No" name="q3" value="No,I dont have one.">
                 <label for ="No">No, I dont have one.</label></span>
                 <br/>
+                </div>
               <br />
-              <span>
+              <div class="card_C">
+              <span >
                 4. How comfortable are you with taking
                 on debt, such as loans or credit card debt, to finance
                 purchases?
@@ -669,8 +674,10 @@
             <span><input type="radio" id="VeryComfortable" name="q4" value="Very comfortable">
                 <label for="VeryComfortable">Very comfortable</label></span>
             <br />
+          </div>
               <br />
-              <span>
+              <div class="card_C">
+              <span >
                 5. Which statement best describes your
                 approach to investing?
               </span>
@@ -686,7 +693,10 @@
             <span><input type="radio" id="SignificantRisk" name="q5" value="SignificantRisk">
                 <label for="SignificantRisk">I'm comfortable with taking significant risks for potentially higher returns, even if it means experiencing short-term losses.</label></span>
             <br />
-                          <br />
+          </div>
+            <br />
+            <div class="card_C">
+              <div class="card_D">
               <span>
                 6. How often do you set specific financial
                 goals for yourself, such as saving for retirement, buying a
@@ -705,31 +715,11 @@
             <span><input type="radio" id="Never" name="q6" value="Never">
                 <label for="Never">Never</label></span>
             <br />
-            
-              <br />
-              <span>
-                7.How much importance do you place on
-                long-term financial planning and wealth accumulation?
-              </span>
-              <br />
-              <span><input type="radio" id="NotImportant" name="q7" value="Not important">
-                <label for="NotImportant">Not important</label></span>
-            <br />
-            <span><input type="radio" id="SomewhatImportant" name="q7" value="Somewhat important">
-                <label for="SomewhatImportant">Somewhat important</label></span>
-            <br />
-            <span><input type="radio" id="ModeratelyImportant" name="q7" value="Moderately important">
-                <label for="ModeratelyImportant">Moderately important</label></span>
-            <br />
-            <span><input type="radio" id="VeryImportant" name="q7" value="Very important">
-                <label for="VeryImportant">Very important</label></span>
-            <br />
-            <span><input type="radio" id="ExtremelyImportant" name="q7" value="Extremely important">
-                <label for="ExtremelyImportant">Extremely important</label></span>
-            <br />
-            
-              <br />
-            </span>
+          </div>
+          </div>
+          <br />
+          <center><input type="submit" id="sbmt_btn" value="Submit" onclick=getRadioValue()></center>
+          <br/>
           </form>
         </div>
         <div class="invest-features">
@@ -762,5 +752,6 @@
       data-section-id="navbar"
       src="https://unpkg.com/@teleporthq/teleport-custom-scripts"
     ></script>
+    <script src="./invest.js"></script>
   </body>
 </html>
