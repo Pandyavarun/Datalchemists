@@ -5,7 +5,7 @@ Budget.ly is your ultimate destination for revolutionizing the way you manage yo
 
 # Website
 Kindly click the link below to continue with the procedure.
-https://finovative.biz
+[Our Website](http://bit.ly/budget_ly)
 
 # Additional information
 This is a website in development. There might be some bugs and errors apologies for that.
