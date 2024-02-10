@@ -3,6 +3,11 @@
 # Introduction
 Budget.ly is your ultimate destination for revolutionizing the way you manage your finances.
 
+# Usage
+Sign up for a new account or log in to your existing one.
+Explore the dashboard, analyze your finances, and discover investment opportunities.
+Collaborate with others, access educational resources, and take control of your financial future!
+
 # Website
 Kindly click the link below to continue with the procedure.
 [Our Website](http://bit.ly/budget_ly)
