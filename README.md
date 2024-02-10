@@ -4,8 +4,8 @@
 Budget.ly is your ultimate destination for revolutionizing the way you manage your finances.
 
 # Website
-<!--Kindly click the link below to continue with the procedure.-->
-
+Kindly click the link below to continue with the procedure.
+https://finnovative.netlify.app/
 
 # Additional information
 This is a website in development. There might be some bugs and errors apologies for that.
