@@ -15,6 +15,27 @@
         font-family: Inter;
         font-size: 16px;
       }
+      .banner {
+        width: 100%;
+        height: 50px;
+        background-color: #f2f2f2;
+        overflow: hidden;
+        white-space: nowrap;
+      }
+  
+      .banner p {
+        display: inline-block;
+        margin: 0;
+        padding: 10px;
+        font-size: 18px;
+        animation: marquee 10s linear infinite;
+      }
+  
+      @keyframes marquee {
+        0% { transform: translateX(100%); }
+        100% { transform: translateX(-100%); }
+      }
+
 
       body {
         font-weight: 400;
@@ -511,6 +532,21 @@
     </style>
   </head>
   <body>
+    <div class="banner">
+      <p>AAPL: $000</p>
+      <p>AMZN: $000</p>
+      <p>MSFT: $000</p>
+      <p>GOOGL: $000</p>
+      <p>NVDA: $000</p>
+      <p>META: $000</p>
+      <p>LLY: $000</p>
+      <p>TSM: $000</p>
+      <p>TSLA: $000</p>
+      <p>JPM: $000</p>
+      <p>WMT: $000</p>
+      <p>MA: $000</p>
+      <!-- Add more stock data here -->
+    </div>
     <link rel="stylesheet" href="./style.css" />
     <div>
       <link href="./index.css" rel="stylesheet" />
@@ -844,6 +880,29 @@
     <script
       data-section-id="navbar"
       src="https://unpkg.com/@teleporthq/teleport-custom-scripts"
-    ></script>
+    ></script><script>
+    // Fetch live stock data using the Finnhub API
+    // Replace YOUR_API_KEY with your actual API key
+    const apiKey = 'cn3rkipr01qtsta3vmngcn3rkipr01qtsta3vmo0';
+    const url = `https://finnhub.io/api/v1/quote?symbol=STOCK_SYMBOL&token=${apiKey}`;
+
+    // Function to update stock prices
+    function updateStockPrices() {
+      const stocks = document.querySelectorAll('.banner p');
+      stocks.forEach(stock => {
+        const symbol = stock.innerText.split(':')[0].trim();
+        fetch(url.replace('STOCK_SYMBOL', symbol))
+          .then(response => response.json())
+          .then(data => {
+            const price = data.c;
+            stock.innerText = `${symbol}: $${price}`;
+          })
+          .catch(error => console.log(error));
+      });
+    }
+
+    // Update stock prices every 10 seconds
+    setInterval(updateStockPrices, 10000);
+  </script>
   </body>
 </html>
