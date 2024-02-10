@@ -5,7 +5,7 @@ Budget.ly is your ultimate destination for revolutionizing the way you manage yo
 
 # Website
 Kindly click the link below to continue with the procedure.
-https://finnovative.netlify.app/
+https://finnovative.biz
 
 # Additional information
 This is a website in development. There might be some bugs and errors apologies for that.
