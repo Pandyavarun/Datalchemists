@@ -6,20 +6,20 @@
   justify-content: flex-start;
 }
 .feature-card-text {
-  font-weight: 600;
+  font-weight: 60;
   line-height: 28px;
 }
 .feature-card-root-class-name {
-  background-color: #338c7c;
+  background-color: #8c7c;
 }
 .feature-card-root-class-name1 {
-  background-color: #338c7c;
+  background-color: #3c7c;
 }
 .feature-card-root-class-name2 {
-  background-color: #338c7c;
+  background-color: #8c7c;
 }
 .feature-card-root-class-name3 {
-  background-color: #338c7c;
+  background-color: #37c;
 }
 @media(max-width: 767px) {
   .feature-card-feature-card {
